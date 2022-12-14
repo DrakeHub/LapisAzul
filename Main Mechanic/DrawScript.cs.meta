@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71c3d74b9028f3f45bd728190c3b115a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - pencilOn: {instanceID: 0}
+  - eraserOn: {instanceID: 0}
+  - brush: {instanceID: 0}
+  - PencilTip: {fileID: 2800000, guid: ff3417958562a1e45af05b61514a035e, type: 3}
+  - EraserTip: {fileID: 2800000, guid: d1c3cfbd4facf1e49921bf652cd4f362, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
